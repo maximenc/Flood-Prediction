@@ -1,3 +1,41 @@
+# Predicting Floods
+
+## Why:
+"Floodings occur when an extreme volume of water is carried by rivers, creeks and many other geographical features into areas where the water cannot be drained adequately. Often, during times of heavy rainfall, drainage systems in residential areas are not adequate or unchecked civil development severely impedes the functionality of an otherwise acceptable drainage system. Floods cause extremely large numbers of fatalities in every country, but due to India's extremely high population density and often under development standards, a large amount of damages and many deaths occurred. India witnesses flood due to excessive rain which then results in overflow of rivers, lakes and dams, which adds to cause large amounts of damage to people's lives and property. In the past, India has witnessed many of the largest, most catastrophic floods, causing irreparable damage to people's livelihood, property, and crucial infrastructure." (https://www.kaggle.com/usharengaraju/floodsdamageindia/discussion/131050#748772)
+
+## Factors:
+- Season (rainy seasons)
+- Meteorologic:
+-- wind (hurricaines)
+- Climate change
+-- rising waters
+
+## Variables:
+- Satellite images (https://qz.com/1068571/incredible-before-and-after-images-of-houston-neighborhoods-hit-by-hurricane-harvey/)
+
+
+## Datasets:
+### Floods:
+- English: https://www.kaggle.com/getthedata/open-flood-risk-by-postcode
+- Indian (Kerala): https://www.kaggle.com/imdevskp/kerala-floods-2018
+- Philippines (Metro Manila): https://www.kaggle.com/giologicx/aegisdataset
+- Luisia: https://www.kaggle.com/joint-research-centre/jrc-urban-flood-risk-luisa-platform-ref2014
+- Italia (Venise): https://www.kaggle.com/giobbu/venice-high-water-acqua-alta
+### Disasters:
+- US (Houston): https://storms.ngs.noaa.gov/storms/harvey/index.html#7/28.400/-96.690
+- US: https://www.kaggle.com/fema/federal-disasters
+- Canada: https://www.kaggle.com/criticalhits/canadian-disaster-database
+- Wolrd: https://www.kaggle.com/dataenergy/natural-disaster-data
+### Floor water retention:
+- EU?: https://www.kaggle.com/joint-research-centre/jrc-water-retention-index
+### Temperature:
+- World: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+
+
+## Kaggle kernels
+- Indian rainfall: https://www.kaggle.com/biphili/india-rainfall-kerala-flood/comments#725065
+
+
 
 # Climat
 Les liens suivants ont été fournis au cours du workshop "Second Degré" organisé par Data4Good en collaboration avec l'association La Freque du Climat (www.fresqueduclimat.org), l'association Avenir Climatique (www.avenirclimatique.org), Damien Huet de l’Association Bilan Carbone® (www.associationbilancarbone.fr), et Angevine Masson.
