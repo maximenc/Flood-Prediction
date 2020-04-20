@@ -11,7 +11,7 @@
 -- rising waters
 
 ## Variables:
-- Satellite images (https://qz.com/1068571/incredible-before-and-after-images-of-houston-neighborhoods-hit-by-hurricane-harvey/)
+- Satellite images 
 
 
 ## Datasets:
@@ -31,10 +31,11 @@
 ### Temperature:
 - World: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
 
-
 ## Kaggle kernels
 - Indian rainfall: https://www.kaggle.com/biphili/india-rainfall-kerala-flood/comments#725065
 
+## Analyses:
+US (houston): https://qz.com/1068571/incredible-before-and-after-images-of-houston-neighborhoods-hit-by-hurricane-harvey/
 
 
 # Climat
