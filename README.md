@@ -1,6 +1,6 @@
 
 # Climat
-Fournis au cours du workshop "Second Degré" organisé par Data4Good en collaboration avec l'association La Freque du Climat (www.fresqueduclimat.org), l'association Avenir Climatique (www.avenirclimatique.org), Damien Huet de l’Association Bilan Carbone® (www.associationbilancarbone.fr), et Angevine Masson.
+Les liens suivants ont été fournis au cours du workshop "Second Degré" organisé par Data4Good en collaboration avec l'association La Freque du Climat (www.fresqueduclimat.org), l'association Avenir Climatique (www.avenirclimatique.org), Damien Huet de l’Association Bilan Carbone® (www.associationbilancarbone.fr), et Angevine Masson.
 
 ## Code
 - On pourrait utiliser cette map pour afficher le risque de crues par pays: https://github.com/tmrowco/electricitymap-contrib
