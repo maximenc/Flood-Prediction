@@ -40,6 +40,7 @@
 ## Datasets:
 ### Floods:
 - EU Open Data Portal: https://data.europa.eu/euodp/en/home
+- World 500y: https://data.europa.eu/euodp/en/data/dataset/jrc-floods-floodmapgl_rp500y-tif
 - English: https://www.kaggle.com/getthedata/open-flood-risk-by-postcode
 - Indian (Kerala): https://www.kaggle.com/imdevskp/kerala-floods-2018
 - Philippines (Metro Manila): https://www.kaggle.com/giologicx/aegisdataset
