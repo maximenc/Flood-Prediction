@@ -47,7 +47,7 @@ Les liens suivants ont été fournis au cours du workshop "Second Degré" organi
 ## Applis
 - Visualisation consommation électricité pays: https://www.electricitymap.org/?page=map
 - Calcul empreinte carbone: http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=6844128&l=cea43bb1-8b6a-49f5-993a-801f448ef5de&r=5cf68644-0122-4726-88cc-5e75c58f1399
-- Flood map, carte de la montée des eaux: https://www.monster.fr/emploi/recherche/?jobid=8804796f-7049-42be-943e-c704b7c38b76&q=DATA+SCIENTIST&where=Ile+of+France&WT.mc_n=olm_sk_feed_Neuvoo_default_fr
+- Flood map, carte de la montée des eaux: https://www.floodmap.net/
 
 ## Notions climat fondamentales
 - Les principales causes du réchauffement climatique et les ordres de grandeur associés.
