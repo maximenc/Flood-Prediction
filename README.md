@@ -36,7 +36,7 @@
 ## Complementary factors to predict water elevation:
 - Surface runoff (of the map)
 - flow diversion
-- land type 
+- land type
 
 ## Datasets:
 ### Floods:
