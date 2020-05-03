@@ -3,6 +3,7 @@
 ## Why:
 "Floodings occur when an extreme volume of water is carried by rivers, creeks and many other geographical features into areas where the water cannot be drained adequately. Often, during times of heavy rainfall, drainage systems in residential areas are not adequate or unchecked civil development severely impedes the functionality of an otherwise acceptable drainage system. Floods cause extremely large numbers of fatalities in every country, but due to India's extremely high population density and often under development standards, a large amount of damages and many deaths occurred. India witnesses flood due to excessive rain which then results in overflow of rivers, lakes and dams, which adds to cause large amounts of damage to people's lives and property. In the past, India has witnessed many of the largest, most catastrophic floods, causing irreparable damage to people's livelihood, property, and crucial infrastructure." (https://www.kaggle.com/usharengaraju/floodsdamageindia/discussion/131050#748772)
 
+
 ## Factors:
 
 - Ground and water:
