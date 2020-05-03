@@ -32,6 +32,10 @@
 ## Variables:
 - Satellite images 
 
+## Complementary factors to predict water elevation:
+- Surface runoff (of the map)
+- flow diversion
+- land type 
 
 ## Datasets:
 ### Floods:
@@ -66,6 +70,7 @@ Les liens suivants ont été fournis au cours du workshop "Second Degré" organi
 ## Applis
 - Visualisation consommation électricité pays: https://www.electricitymap.org/?page=map
 - Calcul empreinte carbone: http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=6844128&l=cea43bb1-8b6a-49f5-993a-801f448ef5de&r=5cf68644-0122-4726-88cc-5e75c58f1399
+- Flood map, carte de la montée des eaux: https://www.floodmap.net/
 
 ## Notions climat fondamentales
 - Les principales causes du réchauffement climatique et les ordres de grandeur associés.
