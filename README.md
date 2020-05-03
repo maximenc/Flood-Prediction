@@ -39,6 +39,7 @@
 
 ## Datasets:
 ### Floods:
+- EU Open Data Portal: https://data.europa.eu/euodp/en/home
 - English: https://www.kaggle.com/getthedata/open-flood-risk-by-postcode
 - Indian (Kerala): https://www.kaggle.com/imdevskp/kerala-floods-2018
 - Philippines (Metro Manila): https://www.kaggle.com/giologicx/aegisdataset
@@ -53,6 +54,7 @@
 - EU?: https://www.kaggle.com/joint-research-centre/jrc-water-retention-index
 ### Temperature:
 - World: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+
 
 ## Kaggle kernels
 - Indian rainfall: https://www.kaggle.com/biphili/india-rainfall-kerala-flood/comments#725065
@@ -112,6 +114,7 @@ Les liens suivants ont été fournis au cours du workshop "Second Degré" organi
 
 ## Portals
 - EU SCIENCE HUB floods:  https://ec.europa.eu/jrc/en/research-topic/floods
+
 
 ## Papers
 - Very accessible review of hydrological models: https://www.sciencedirect.com/science/article/pii/S2214241X15001273
