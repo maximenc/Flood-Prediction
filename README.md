@@ -13,6 +13,10 @@
 ## Variables:
 - Satellite images 
 
+## Complementary factors to predict water elevation:
+- Surface runoff (of the map)
+- flow diversion
+- land type 
 
 ## Datasets:
 ### Floods:
