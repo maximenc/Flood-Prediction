@@ -52,10 +52,33 @@
 - US: https://www.kaggle.com/fema/federal-disasters
 - Canada: https://www.kaggle.com/criticalhits/canadian-disaster-database
 - Wolrd: https://www.kaggle.com/dataenergy/natural-disaster-data
-### Floor water retention:
-- EU?: https://www.kaggle.com/joint-research-centre/jrc-water-retention-index
-### Temperature:
+### Land cover:
+- World: USGS Landsat: https://www.usgs.gov/land-resources/nli/landsat/data-tools
+- Malawi: http://www.masdap.mw/
+- http://gis1.servirglobal.net:8080/geonetwork/srv/eng/catalog.search;jsessionid=C176A5DC99F9FCDDBBFA19997242AE4A#/metadata/4429e427-c117-43c7-8d8d-406160448ba7
+- http://geoportal.rcmrd.org/layers/servir%3Amalawi_landcover_2000_scheme_i
+- https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-non?qt-science_center_objects=0#qt-science_center_objects
+### Soil data: 
+- EU: Floor water retention: https://www.kaggle.com/joint-research-centre/jrc-water-retention-index
+- https://www.isric.org/explore/wosis/accessing-wosis-derived-datasets
+- https://esdac.jrc.ec.europa.eu/search/node/malawi
+### Temperature / Rainfall:
 - World: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+- World Bank Group: https://climateknowledgeportal.worldbank.org/download-data
+- https://climateknowledgeportal.worldbank.org/download-data
+- http://chelsa-climate.org/
+- https://earthobservatory.nasa.gov/global-maps/MOD_LSTD_M
+- https://www.worldweatheronline.com/developer/api/historical-weather-api.aspx
+- https://openweathermap.org/
+- https://neo.sci.gsfc.nasa.gov/
+### Any:
+- Google EarthEngine: https://github.com/google/earthengine-api
+- DIVA-GIS: http://www.diva-gis.org/
+- https://www.naturalearthdata.com/
+- https://data.humdata.org
+- https://data.humdata.org/dataset/wfp-geonode-ica-malawi-natural-shocks-risk
+- https://pmm.nasa.gov/data-access/downloads/gpm
+- https://disc.gsfc.nasa.gov/
 
 
 ## Kaggle kernels
