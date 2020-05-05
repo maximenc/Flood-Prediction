@@ -81,25 +81,32 @@
 - https://disc.gsfc.nasa.gov/
 
 
-## Kaggle kernels
-- Indian rainfall: https://www.kaggle.com/biphili/india-rainfall-kerala-flood/comments#725065
-
-## Analyses:
-US (houston): https://qz.com/1068571/incredible-before-and-after-images-of-houston-neighborhoods-hit-by-hurricane-harvey/
-
-
-# Climat
-Les liens suivants ont été fournis au cours du workshop "Second Degré" organisé par Data4Good en collaboration avec l'association La Freque du Climat (www.fresqueduclimat.org), l'association Avenir Climatique (www.avenirclimatique.org), Damien Huet de l’Association Bilan Carbone® (www.associationbilancarbone.fr), et Angevine Masson.
 
 ## Code
 - On pourrait utiliser cette map pour afficher le risque de crues par pays: https://github.com/tmrowco/electricitymap-contrib
+
+### Kaggle kernels
+- Indian rainfall: https://www.kaggle.com/biphili/india-rainfall-kerala-flood/comments#725065
+
+### Libraries
+- geopandas: https://geopandas.org/
+
+
 
 ## Applis
 - Visualisation consommation électricité pays: https://www.electricitymap.org/?page=map
 - Calcul empreinte carbone: http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=6844128&l=cea43bb1-8b6a-49f5-993a-801f448ef5de&r=5cf68644-0122-4726-88cc-5e75c58f1399
 - Flood map, carte de la montée des eaux: https://www.floodmap.net/
 
-## Notions climat fondamentales
+
+
+## Analyses:
+US (houston): https://qz.com/1068571/incredible-before-and-after-images-of-houston-neighborhoods-hit-by-hurricane-harvey/
+
+## Climat
+Les liens suivants ont été fournis au cours du workshop "Second Degré" organisé par Data4Good en collaboration avec l'association La Freque du Climat (www.fresqueduclimat.org), l'association Avenir Climatique (www.avenirclimatique.org), Damien Huet de l’Association Bilan Carbone® (www.associationbilancarbone.fr), et Angevine Masson.
+
+### Notions climat fondamentales
 - Les principales causes du réchauffement climatique et les ordres de grandeur associés.
 - Les différents impacts du dérèglement climatique sur l’environnement et leurs répercussions sur la société humaine.
 - Le principe des boucles de rétroactions et le risque d’emballement climatique, le forçage radiatif.
@@ -116,10 +123,10 @@ Les liens suivants ont été fournis au cours du workshop "Second Degré" organi
 - Les différentes crises d’extinction du vivant et les différences avec la crise actuelle.
 - Les cinq facteurs d’érosion de la biodiversité : changement d’utilisation des terres et des mers, surexploitation des ressources, pollutions, changement climatique et invasions biologiques.
 
-## Ordres de grandeur
+### Ordres de grandeur
 - Dérèglement climatique: https://www.tmrow.com/climatechange
 
-## Explications:
+### Explications:
 - Comprendre le climat via l'analyse des carottes glacières: http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=6844128&l=2f018f38-d037-4555-9200-340af2c2949c&r=5cf68644-0122-4726-88cc-5e75c58f1399
 - Photovoltaïque, limites des batteries: https://jancovici.com/transition-energetique/renouvelables/pourrait-on-alimenter-la-france-en-electricite-uniquement-avec-du-solaire-ou-de-la-biomasse/
 - Dépendance à l'énergie, MOOC: https://www.youtube.com/watch?v=xgy0rW0oaFI et https://futuretenergie.wordpress.com/2020/04/10/petrole-que-se-passe-t-il-en-cas-de-desequilibre-entre-offre-et-demande/amp/?__twitter_impression=true
@@ -132,14 +139,14 @@ Les liens suivants ont été fournis au cours du workshop "Second Degré" organi
 - Bilan carbone: https://jancovici.com/changement-climatique/les-ges-et-nous/bilan-carbone/
 - Neutralité carbone des entreprises: http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=6867978&l=324a9a85-6cdb-4892-a820-f730bed21872&r=f476db78-e3c3-4b01-aa9f-1248fbc62b68
 
-## Solutions
+### Solutions
 - 365 actions pour tous: https://cacommenceparmoi.com/
 - Changer le monde en trois mois: http://ec2-52-26-194-35.us-west-2.compute.amazonaws.com/x/d?c=6856338&l=5278d034-bcfd-4a0c-9a8a-a202f01778f6&r=2aea3e36-35b8-451b-a28b-16a45896accb
 
 
-## Portals
+### Portals
 - EU SCIENCE HUB floods:  https://ec.europa.eu/jrc/en/research-topic/floods
 
 
-## Papers
+### Papers
 - Very accessible review of hydrological models: https://www.sciencedirect.com/science/article/pii/S2214241X15001273
