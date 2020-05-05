@@ -7,26 +7,42 @@
 ## Factors:
 
 - Ground and water:
+
 -- Topography
+
 -- soil characteristics
+
 -- vegetation
+
 -- soil moisture content
+
 -- hydrogeology
+
 -- drainage areas
+
 -- ground water aquifer
+
 -- dimension of rivers and their network
+
 -- evapotranspiration
 
 - Season (rainy seasons)
 
+
 - Meteorologic:
+
 -- rainfall
+
 -- air temperature
+
 -- wind (hurricaines)
+
 -- solar radiation
+
 -- relative air humidity
 
 - Climate change
+
 -- rising waters
 
 
