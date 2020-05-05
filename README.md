@@ -8,10 +8,13 @@
 
 Ground and water:
 - Topography
+- land type
 - soil characteristics
 - vegetation
 - soil moisture content
 - hydrogeology
+- Surface runoff
+- flow diversion
 - drainage areas
 - ground water aquifer
 - dimension of rivers and their network
@@ -32,11 +35,6 @@ Climate change
 
 ## Variables:
 - Satellite images 
-
-## Complementary factors to predict water elevation:
-- Surface runoff (of the map)
-- flow diversion
-- land type
 
 ## Datasets:
 ### Floods:
